@@ -1,6 +1,8 @@
 # HR-Employee-Attrition-Analysis
 HR Employee Attrition Analysis using Python, Pandas, Seaborn, and Power BI to identify employee turnover patterns and business insights.
 
+Here is my google colab link for python: https://colab.research.google.com/drive/1zMAYLCiRqrLPiiLyu0SAx85McZQhUjTL
+
 # HR Employee Attrition Analysis
 
 ## Project Overview
